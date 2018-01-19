@@ -1,7 +1,7 @@
 Bidello
 =======
 
-It is a bidding website which has been written using HTML, CSS, PHP, MySQL and Javascript. 
+It is a bidding website which has been written using HTML, CSS, PHP, MySQL and Javascript. It was developed in partial fullfilment of Software Engineering course at BITS Pilani, Goa Campus. The website complies with all the standard practices of Software Engineering course. Also find the software requirement documentation in the files on github.
 
 
 A) It entails the following features :-
@@ -34,3 +34,7 @@ C) Technical features
 ----------   
   
 D) To know the look and feel of the website, click on this link --> https://github.com/anadirastogi47/Bidello/blob/master/E-BIDDING.pdf 
+
+----------
+
+E) Also find the Software Requirement Specifications here --> https://github.com/anadirastogi47/Bidello/blob/master/SRSE-bidding.doc.pdf
