@@ -3,19 +3,20 @@ Bidello
 
 It is a bidding website which has been written using HTML, CSS, PHP, MySQL and Javascript. 
 
+
 A) It entails the following features :-
 
     1) Users can start bids for their items 
     2) Users can participlate in bids 
     3) Winner of the bid will be notified automatically via email as soon as the bid ends 
-    
+----------    
     
 B) To set it up
   
     1) Install a Apache-MySQL-PHP software stack depending on your OS
     2) Place the e-bidding folder in the index folder 
     3) Download the data dump to set up database for the website 
-  
+---------- 
 
 C) Technical features 
    * Login
@@ -30,6 +31,6 @@ C) Technical features
    * View Bids , start a new bid 
    * Different categories , Search by popularity , latest bids 
    * Pagination
-   
+----------   
   
-D) To know the look and feel of the website, click on this link https://github.com/anadirastogi47/Bidello/blob/master/E-BIDDING.pdf 
+D) To know the look and feel of the website, click on this link --> https://github.com/anadirastogi47/Bidello/blob/master/E-BIDDING.pdf 
